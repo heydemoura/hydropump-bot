@@ -1,0 +1,22 @@
+{
+  "name": "me.heydemoura.hydrabot",
+  "version": "0.0.1",
+  "description": "Telegram bot for remind me to drink water",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "drink",
+    "water",
+    "telegram",
+    "bot"
+  ],
+  "author": "Heyde Moura",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "firebase": "^8.2.7",
+    "telegraf": "^4.0.3"
+  }
+}
